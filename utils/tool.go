@@ -1,5 +1,5 @@
 package utils
 
 func GetMsg() string {
-	return "get_msg2"
+	return "get_msg3"
 }
